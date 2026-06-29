@@ -70,16 +70,6 @@
     <text>automatic morphine</text>
   </string>
 
-  <string id="st_armor_penetrated">
-    <text>Bullet penetrated armor insert!</text>
-  </string>
-  <string id="st_armor_broken">
-    <text>Equipped ballistic insert has fully broken.</text>
-  </string>
-  <string id="st_armor_absorbed">
-    <text>Armor insert absorbed impact.</text>
-  </string>
-
   <string id="st_no_frame_equipped">
     <text>No backpack frame installed.</text>
   </string>
@@ -131,6 +121,6 @@
   
 	
 	<string id="st_dot">
-		<text>•</text>
+		<text>ï¿½</text>
 	</string>
 </string_table>
